@@ -20,7 +20,7 @@ export default function Navbar() {
       <ul>
         <li>
           <Link href="/">
-            <button className="btn-logo">BLOGIT</button>
+            <button className="btn-logo">BLOGIN</button>
           </Link>
         </li>
 
