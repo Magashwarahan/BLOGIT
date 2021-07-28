@@ -57,8 +57,8 @@ export default function Home(props) {
       <Metatags title="Home Page" description="Get the latest posts on our site" />
 
       <div className="card card-info">
-        <h2>💡BLOGIT</h2>
-        <p>BLOGIT Welcomes you all!!!</p>
+        <h2>💡BLOGIN</h2>
+        <p>BLOGIN Welcomes you all!!!</p>
         <p>This is a broad platform where it enables people from different sections to get connected through their inspiring piece of quotes, information,stories,scientific facts and much more. So that viewers can gain insights by giving a read.</p>
         <p>Like if you guys love it,share if you wish to spread the world!!!</p>
         <p> Just Sign up for an 👨‍🎤 account, ✍️ write posts, then 💞 heart content created by other users.</p>
