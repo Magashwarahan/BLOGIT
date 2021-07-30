@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
-  --color-bg:  #b2dff7;
+  --color-bg:  #80BD9E;
   --color-text: #F1F1F2;
   --color-blue: #ff6e40;
   --color-red: #1995AD;
-  --color-green: rgb(14, 173, 0);
-  --color-gray:  #4a536b;
+  --color-green: #89DA59;
+  --color-gray:  #FF420E;
 
   
 }
@@ -65,7 +65,7 @@ code {
 .navbar {
   height: 70px;
   width: 100%;
-  background: #F1F1F2;
+  background: #F98866;
   color: var(--colors-text);
   position: fixed;
   top: 0;
