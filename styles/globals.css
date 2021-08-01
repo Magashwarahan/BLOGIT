@@ -16,7 +16,7 @@ body {
   margin: 0;
   font-family: 'Noto Sans', sans-serif;
   background-color: var(--color-bg);
-  color: var(--color-text);
+  color: black;
   margin-top: 50px;
 }
 
