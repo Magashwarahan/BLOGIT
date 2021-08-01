@@ -66,7 +66,7 @@ code {
   height: 70px;
   width: 100%;
   background:  #f72a2a;
-  color: var(--colors-text);
+  color: black;
   position: fixed;
   top: 0;
   padding: 0 10vw;
@@ -151,7 +151,7 @@ button.btn-green {
 
 button.btn-google {
   background-color: white;
-  color: var(--color-text);
+  color: black;
 }
 
 .btn-google img {
@@ -160,7 +160,7 @@ button.btn-google {
 }
 
 button.btn-logo {
-  background-color: var(--color-text);
+  background-color:black;
   color: white;
   text-transform: uppercase;
   font-size: 15px;
