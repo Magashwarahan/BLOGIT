@@ -3,7 +3,7 @@
 :root {
   --color-bg:  #233142;
   --color-text: #08090a;
-  --color-blue: #ff6e40;
+  --color-blue: #d6e4fo;
   --color-red: #df3b3b;
   --color-green: rgb(14, 173, 0);
   --color-gray:  #4a536b;
@@ -192,7 +192,7 @@ button.btn-logo {
 }
 
 .card-info {
-  background-color: #30e3ca;
+  background-color: #a2d5f2;
   color: black;
 }
 
