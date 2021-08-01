@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
-  --color-bg:  #aed6dc;
+  --color-bg:  #233142;
   --color-text: #08090a;
   --color-blue: #ff6e40;
   --color-red: #df3b3b;
@@ -65,7 +65,7 @@ code {
 .navbar {
   height: 70px;
   width: 100%;
-  background:  #1e3d59;
+  background:  #f72a2a;
   color: var(--colors-text);
   position: fixed;
   top: 0;
@@ -174,7 +174,7 @@ button.btn-logo {
 .card {
   padding: 2rem;
   margin: 1rem 0;
-  background-color:#abcca7;
+  background-color:#e4f9f5;
   border: 1px solid var(--color-gray);
   border-radius: 8px;
 }
@@ -192,7 +192,7 @@ button.btn-logo {
 }
 
 .card-info {
-  background-color: #a9d6d0;
+  background-color: #30e3ca;
   color: black;
 }
 
